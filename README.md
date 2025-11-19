@@ -43,7 +43,7 @@ Me estoy especializando en el ecosistema JavaScript/TypeScript, construyendo int
 
 ## 📊 Mis Contribuciones en GitHub:
 
-Para mostrar las estadísticas de tu perfil. **Reemplaza `[TU-USUARIO-GITHUB]` con tu nombre de usuario de GitHub.**
+Para mostrar las estadísticas de tu perfil. **Reemplaza `leonelpereyra44` con tu nombre de usuario de GitHub.**
 
 ```markdown
 <p align="center">
