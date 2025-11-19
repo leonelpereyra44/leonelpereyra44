@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre Aquí] - Desarrollador Full Stack Junior
+# ¡Hola! Soy LEO!! - Desarrollador Full Stack Junior
 
 Me estoy especializando en el ecosistema JavaScript/TypeScript, construyendo interfaces dinámicas con **React** y soluciones de backend escalables con **Next.js** y **Supabase**. Siempre buscando aprender y aplicar buenas prácticas.
 
