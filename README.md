@@ -23,17 +23,3 @@ Me estoy especializando en el ecosistema JavaScript/TypeScript, construyendo int
 | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) | [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu_usuario_aqui/) |
 | ![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white) | [Tu Sitio Web/Portafolio](https://tu_sitio_web.com) |
 
----
-
-## 📊 Mis Contribuciones en GitHub:
-
-Para mostrar las estadísticas de tu perfil. **Reemplaza `[TU-USUARIO-GITHUB]` con tu nombre de usuario de GitHub.**
-
-```markdown
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=](https://github-readme-stats.vercel.app/api?username=)[TU-USUARIO-GITHUB]&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de [TU-USUARIO-GITHUB]" />
-</p>
-
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=](https://github-readme-stats.vercel.app/api/top-langs/?username=)[TU-USUARIO-GITHUB]&layout=compact&theme=dark" alt="Lenguajes Más Usados" />
-</p>
