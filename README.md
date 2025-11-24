@@ -32,11 +32,3 @@ Me estoy especializando en el ecosistema JavaScript/TypeScript, construyendo int
 
 ---
 
-## 🌐 Conéctate Conmigo:
-
-| Plataforma | Enlace |
-| :--- | :--- |
-| ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) | [Tu Perfil de LinkedIn](https://www.linkedin.com/in/tu_usuario_aqui/) |
-| ![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white) | [Tu Sitio Web/Portafolio](https://tu_sitio_web.com) |
-
----
