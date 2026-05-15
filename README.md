@@ -16,6 +16,7 @@ Me estoy especializando en el ecosistema JavaScript/TypeScript, construyendo int
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1F1F1F?style=for-the-badge&logo=expo&logoColor=white)
 
 ### Bases de Datos y Backend as a Service (BaaS):
 
@@ -28,7 +29,6 @@ Me estoy especializando en el ecosistema JavaScript/TypeScript, construyendo int
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-1F1F1F?style=for-the-badge&logo=expo&logoColor=white)
 
 ---
 
